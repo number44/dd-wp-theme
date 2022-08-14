@@ -2,20 +2,20 @@
 	"name": "wp-theme",
 	"version": "1.0.0",
 	"description": "",
-	"main": "postcss.config.js",
+	"main": "src/index.tsx",
 	"scripts": {
 		"build": "wp-scripts build",
 		"start": "wp-scripts start"
 	},
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/blonestar/wp-theme-vite-tailwind.git"
+		"url": "git+https://github.com/number44/dd-wp-theme.git"
 	},
 	"keywords": [],
 	"author": "number44",
 	"license": "ISC",
 	"bugs": {
-		"url": "https://developer.wordpress.org/themes/basics/including-css-javascript/"
+		"url": "https://github.com/number44/dd-wp-theme.git"
 	},
 	"homepage": "",
 	"devDependencies": {
