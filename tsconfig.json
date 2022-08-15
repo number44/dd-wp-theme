@@ -1,0 +1,14 @@
+{
+	"compilerOptions": {
+		"outDir": "./build/",
+		"sourceMap": true,
+		"noImplicitAny": true,
+		"jsx": "react-jsx",
+		"allowJs": true,
+		"moduleResolution": "node",
+		"module": "ESNext",
+		"target": "ES2015", // Set to ES5 for older browser support.
+		"strict": true,
+		"allowSyntheticDefaultImports": true
+	}
+}

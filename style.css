@@ -9,9 +9,6 @@ Tested up to: 5.7
 Requires PHP: 7.4
 Version: 0.3.2
 */
-
-#admin-root {
-	display: none !important;
-	min-height: 400px;
-	background: cadetblue;
+* {
+	box-sizing: border-box;
 }
