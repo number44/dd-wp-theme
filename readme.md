@@ -2,11 +2,11 @@
 
 ## React TS , Typescript, sass , webpack , wordpress scripts
 
-### instalation
+### installation
 
-#### wp-env
+#### with wp-env
 
-Clone repository inside repository :
+Clone repository inside any folder.
 
 ```
 wp-env start
